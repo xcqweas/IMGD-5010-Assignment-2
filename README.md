@@ -2,7 +2,8 @@
 
 ## What to expect
 
-https://editor.p5js.org/xcqweas/sketches/eZYRCEvWv
+Find it at https://editor.p5js.org/xcqweas/sketches/eZYRCEvWv
+
 Just a "mosaic art" and each runs yields slightly different results. That's it.
 
 ## Sample Results
